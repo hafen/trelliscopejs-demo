@@ -1,9 +1,9 @@
 {
-  "display_base" : "vdb_housing",
+  "display_base" : "http://hafen.github.io/trelliscopejs_vdb_housing",
   "cog_server" : {
     "type" : "json",
     "info" : {
-      "base" : "vdb_housing"
+      "base" : "http://hafen.github.io/trelliscopejs_vdb_housing"
     }
   }
 }
