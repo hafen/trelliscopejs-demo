@@ -6,5 +6,5 @@ __loadTrscopeConfig__({
     "info" : {
       "base" : "https://hafen.github.io/trelliscopejs_vdb_housing"
     }
+  }
 })
-
