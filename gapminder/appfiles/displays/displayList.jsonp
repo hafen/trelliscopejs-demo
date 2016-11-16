@@ -1,0 +1,12 @@
+__loadDisplayList__32b2482a([
+  {
+    "group": "common",
+    "name": "gapminder_lifeexp",
+    "desc": "life expectancy vs. year by country using Gapminder data",
+    "n": 142,
+    "height": 500,
+    "width": 500,
+    "updated": "2016-11-16 00:20:17",
+    "keySig": "3ce5e9f93314c13debae22255fd751bf"
+  }
+])

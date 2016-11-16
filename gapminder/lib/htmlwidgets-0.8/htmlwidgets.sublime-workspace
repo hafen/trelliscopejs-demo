@@ -1,0 +1,903 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"roxy",
+				"roxygen"
+			],
+			[
+				"tmp",
+				"tmp_data.csv"
+			],
+			[
+				"majority",
+				"majorityTab"
+			],
+			[
+				"majorityT",
+				"majorityTabByBloc"
+			],
+			[
+				"res",
+				"resolutionID"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "htmlwidgets.js",
+			"settings":
+			{
+				"buffer_size": 21129,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 267.0,
+		"last_filter": "devti",
+		"selected_items":
+		[
+			[
+				"devti",
+				"R-Box devtools: install()"
+			],
+			[
+				"roxyge",
+				"R-Box Run Roxygen"
+			],
+			[
+				"roxy",
+				"R-Box Run Roxygen"
+			],
+			[
+				"check",
+				"R-Box devtools: check()"
+			],
+			[
+				"devt",
+				"R-Box devtools: install()"
+			],
+			[
+				"rox",
+				"R-Box Run Roxygen"
+			],
+			[
+				"devt ch",
+				"R-Box devtools: check()"
+			],
+			[
+				"r ext",
+				"Set Syntax: R Extended"
+			],
+			[
+				"r",
+				"R-Box Application"
+			],
+			[
+				"roxyg",
+				"R-Box Run Roxygen"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"roxygen",
+				"R-Box Run Roxygen"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ryxo",
+				"Pretty JSON: JSON 2 XML"
+			],
+			[
+				"evti",
+				"R-Box devtools: install()"
+			],
+			[
+				"devty",
+				"Markdown Preview: Copy to Clipboard"
+			],
+			[
+				"deti",
+				"Emmet: Encode\\Decode Image to data:URL"
+			],
+			[
+				"devtri",
+				"Markdown Preview: Export HTML in Sublime Text"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"checkOpts",
+				"Git (SideBarGit): Checkout repository to…"
+			],
+			[
+				"pretty",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"ro",
+				"R-Box Run Roxygen"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"devi",
+				"R-Box devtools: install()"
+			],
+			[
+				"rb",
+				"R-Box Application"
+			],
+			[
+				"syntaxr",
+				"Set Syntax: R Extended"
+			],
+			[
+				"r markdown",
+				"Set Syntax: R Markdown"
+			],
+			[
+				"markdown extend",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"dev",
+				"R-Box devtools: test()"
+			],
+			[
+				"markdown e",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"mark",
+				"Set Syntax: Markdown Extended"
+			],
+			[
+				"rxoy",
+				"Snippet: roxygen"
+			],
+			[
+				"de",
+				"R-Box devtools: install()"
+			],
+			[
+				"ryx",
+				"Snippet: roxygen"
+			],
+			[
+				"devin",
+				"R-Box devtools: install()"
+			],
+			[
+				"rogy",
+				"R-Box Run Roxygen"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"projec",
+				"Project: Save As"
+			],
+			[
+				"project",
+				"Project Manager: Edit Project"
+			],
+			[
+				"upd",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"synta",
+				"Set Syntax: R"
+			],
+			[
+				"synt",
+				"Set Syntax: Python"
+			],
+			[
+				"syn",
+				"Set Syntax: R"
+			],
+			[
+				"",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"upda",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"p",
+				"Package Control: List Packages"
+			],
+			[
+				"package",
+				"Package Control: Install Package"
+			],
+			[
+				"r-",
+				"R-Box Application"
+			],
+			[
+				"proje",
+				"Project Manager: Edit Project"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"packag",
+				"Package Control: Enable Package"
+			]
+		],
+		"width": 746.0
+	},
+	"console":
+	{
+		"height": 204.0,
+		"history":
+		[
+			"view.find_by_selector('source.r')",
+			"view.find_by_selector('text.html.markdown.rmarkdown')",
+			"view.find_by_selector('source.r')",
+			"view.classify(8)",
+			"view.classify(6)",
+			"view.classify(4)",
+			"view().classify(4)",
+			"classify(4)",
+			"view.find_by_selector()",
+			"view.find_by_selector('code')",
+			"view.find_by_selector('R')",
+			"view.find_by_selector('r')",
+			"view.find_by_selector('function')",
+			"view.find_by_selector('function-call')",
+			"view.scope_name(56)",
+			"view.scope_name(50)",
+			"view.scope_name(20)",
+			"view.scope_name(2)",
+			"view.scope_name(1)",
+			"view.scope_name(0)",
+			"view.find_by_selector('comment')",
+			"view.extract_scope(10)",
+			"view.extract_scope()",
+			"view.find_by_selector('comment')",
+			"view.find_by_selector",
+			"view.find_by_selector('comment')",
+			"view()",
+			"active_window",
+			"windows",
+			"windows()",
+			"active_window()",
+			"view.settings().get(\"R_box_app\")",
+			"view.settings()",
+			"sublime.active_window().active_view().settings().get('R_box_app')",
+			"settings.get(\"folders\")",
+			"settings.get()",
+			"settings.list()",
+			"settings.get(\"R_box_app\")",
+			"settings = sublime.load_settings(\"test-project.sublime-settings\")",
+			"settings.get(\"R_box_app\")",
+			"settings = sublime.load_settings(\"<project-filename>.sublime-settings\")",
+			"view.settings().get(\"R_box_appa\") is not None",
+			"view.settings().get(\"R_box_appa\") is None",
+			"view.settings().get(\"R_box_appa\") == \"\"",
+			"view.settings().get(\"R_box_appa\") == null",
+			"view.settings().get(\"R_box_appa\")",
+			"view.settings().get(\"R_box_app\")",
+			"view.settings()",
+			"RBoxSettings()",
+			"ls",
+			"RBoxSettings",
+			"RBoxSettings(\"App\")",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/hafen/Documents/Code/forked/htmlwidgets/inst/www"
+	],
+	"file_history":
+	[
+		"/Users/hafen/Documents/Code/forked/htmlwidgets/inst/www/htmlwidgets.sublime-project",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/ex-grid.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/print.R",
+		"/Users/hafen/Documents/Code/rbokeh/tests/testthat/test-figures.R",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/rbokeh7/R/rbokeh7.R",
+		"/Users/hafen/Documents/Code/rbokeh/.git/MERGE_MSG",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/ex-gmap.R",
+		"/Users/hafen/Documents/Code/rbokeh/.git/COMMIT_EDITMSG",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/tools.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/fig_tool.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/fig_layer.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/json_helpers.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/layer_points.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/helpers_extra_pars.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/helpers.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/fig_legend.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/prepare_figure.R",
+		"/Users/hafen/Documents/Code/rbokeh/inst/htmlwidgets/rbokeh.yaml",
+		"/Users/hafen/Documents/Code/rbokeh/R/rbokeh-package.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/ex-flightfreq.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/ex-elements.R",
+		"/Users/hafen/Documents/Code/rbokeh/DESCRIPTION",
+		"/Users/hafen/Documents/Code/rbokeh/R/constants.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/themes.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/layer_stats.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/ex-axis.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/ex-image.R",
+		"/Users/hafen/Documents/Code/rbokeh/NEWS.md",
+		"/Users/hafen/Documents/Code/rbokeh/R/fig_grid.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/layer_glyphs.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/par-url.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/ex-annwedge.R",
+		"/Users/hafen/Documents/Code/rbokeh/rbokeh.sublime-project",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/par-lineprops.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/dots-line.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/par-legend.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/layer_text.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/fig_url.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/bokeh_render_json.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/par-coloralpha.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/par-text.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/layer_image.R",
+		"/Users/hafen/Documents/Code/rbokeh/inst/htmlwidgets/rbokeh.js",
+		"/Users/hafen/Documents/Code/rbokeh/R/layer_shapes.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/make_glyph.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/zzz.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/fig_range.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/ex-range.R",
+		"/Users/hafen/Documents/Code/rbokeh/tests/testthat.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/ex-image_url.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/ex-boxplot.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/fig_axis.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/dots-axis.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/figure.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/dots-figure.R",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/extra-pars.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/attr_mapping.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/layer_hexbin.R",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/design.md",
+		"/Users/hafen/Documents/Code/rbokeh/R/point_types.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/layer_lines.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/ex-points.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/ex-lines.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/layer_map.R",
+		"/private/tmp/mywidget/R/mywidget.R",
+		"/Users/hafen/Documents/Code/rbokeh/TODO.md",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/old_tests.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/_doc.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/layer_secondclass.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/dots-fillline.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/par-lnamegroup.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/par-hover.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/fig_hover.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/dots-fill.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/glyphs.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/par-line.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/par-line-extra.R",
+		"/Users/hafen/Documents/Code/rbokeh/man-roxygen/par-fill.R",
+		"/Users/hafen/Documents/Code/rbokeh/.Rbuildignore",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/get_palettes.R",
+		"/Users/hafen/Documents/Code/Tessera/hafen/trelliscope/.git/MERGE_MSG",
+		"/Users/hafen/Documents/Code/cloned/bokeh/tests/glyphs/ImageURL.py",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/todo.txt",
+		"/usr/local/Library/Taps/homebrew/homebrew-science/r.rb",
+		"/Users/hafen/Documents/Code/rbokeh/test.py",
+		"/Users/hafen/Documents/Code/rbokeh/test.Rmd",
+		"/Users/hafen/Documents/Code/rbokeh/image.html",
+		"/Users/hafen/Documents/Code/rbokeh/README.md",
+		"/Users/hafen/Documents/Code/rbokeh/R/aesthetics.R",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/old/lay_points.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/makeGlyph.R",
+		"/Users/hafen/Documents/Code/rbokeh/NAMESPACE",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/stuff.R",
+		"/Users/hafen/Documents/Code/rbokeh/.gitignore",
+		"/Users/hafen/Documents/Code/rbokeh/.Rapp.history",
+		"/Users/hafen/Documents/Code/rbokeh/.travis.yml",
+		"/Users/hafen/Documents/Code/rbokeh/LICENSE",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/gallery.Rmd",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/colors/tableau.R",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/bokeh_graph_plot.R",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/test.R",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/example.json",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/note.txt",
+		"/Users/hafen/Documents/Code/rbokeh/R/json_wrappers.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/json_models.R",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/docs.R",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/unemp.csv",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/line_fill_text.txt",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/markers.R",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/test_getVarData.R",
+		"/Users/hafen/Documents/Code/rbokeh/R/stats.R",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/lty.R",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/class_notes.txt",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/colors/tableau.csv",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/colors/tableaucolors.csv",
+		"/Users/hafen/Documents/Code/hafen.github.io/.gitignore",
+		"/Users/hafen/Documents/Code/hafen.github.io/index.html",
+		"/Users/hafen/.Rprofile",
+		"/Users/hafen/Documents/Code/rbokeh/R/BokehFigure.R",
+		"/Users/hafen/Documents/Code/rbokeh/LICENSE.md",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/elements.csv",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/tmp/image_rgba.R",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/tmp/old_makeGlyph_stuff.R",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/setup.R",
+		"/Users/hafen/Documents/Code/rbokeh/_ignore/markers_glyphs.txt",
+		"/Users/hafen/Library/R/3.1/library/rbokeh/htmlwidgets/rbokeh.js",
+		"/Users/hafen/Documents/Code/rbokeh/inst/htmlwidgets/lib/bokehjs/bokeh.min.css",
+		"/Users/hafen/Documents/Code/Tessera/hafen/install-base/dependencies.R"
+	],
+	"find":
+	{
+		"height": 41.0
+	},
+	"find_in_files":
+	{
+		"height": 105.0,
+		"where_history":
+		[
+			"",
+			"*.R",
+			"R/*.R",
+			"*.R",
+			"R/*.R",
+			"man-roxygen/*.R",
+			"R/*.R",
+			"layers",
+			"R/*.R",
+			"*.R",
+			".R",
+			"*.R",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"960",
+			"html-widget-static",
+			"getWidth",
+			"html-widget-static",
+			"html-stati",
+			"width",
+			"10",
+			"tools",
+			"...",
+			"gen_id <",
+			"data_mods",
+			"figs",
+			"prepare_figure <",
+			"prepare_figure",
+			"axes",
+			"axis",
+			"x_range",
+			"brows",
+			"obj$",
+			"figs",
+			"figs[[hd[1]]]",
+			"figs[[hd1[1]]]",
+			"[[ii]]x",
+			"$data_sigs",
+			"this figure is",
+			"get_grid_rang",
+			"nrow = obj$nrow",
+			"length(fig$x$spec$layers)",
+			"grid_plot_mo",
+			"grid_plot",
+			"axis_type",
+			"htmlw",
+			"fig$ref",
+			"plot_ref",
+			"fig",
+			"tools",
+			"spec$tools",
+			"tool",
+			"linearaxis",
+			"tool",
+			"linearaxis",
+			"has_x_range",
+			"fig$",
+			"fig$model",
+			"obj",
+			"is_y, obj$y_axis_type",
+			"is_y",
+			"registermeth",
+			"make_bokeh_widget",
+			"fig",
+			"make_bokeh_widget",
+			"createwidget",
+			"createw",
+			"flightf",
+			"data(flightFreq",
+			"flightfreq",
+			"browser()",
+			"palette",
+			"palette =",
+			"polyg",
+			"prepare_figure <",
+			"fig$",
+			"fig[[",
+			"fig$",
+			"obj",
+			"fig$",
+			"obj",
+			"fig$",
+			"obj",
+			"fig$",
+			"obj",
+			"fig$",
+			"createWidget(",
+			"rbokehOutput",
+			"ex-flightfreq",
+			"browser",
+			"get_hex",
+			"syle",
+			"trans",
+			"maxcnt",
+			"href",
+			"modeltype",
+			"subtype",
+			"browser()",
+			"modelid",
+			"realizing plot",
+			"\"gridplot",
+			"id <",
+			"browser",
+			"prepare_figure <",
+			"this figure is empty",
+			"fig_model_",
+			"type",
+			"\"Plot",
+			"\"plot",
+			"validate",
+			"‘",
+			"map_op",
+			"\"id",
+			"gmap",
+			"log",
+			"id",
+			"\"",
+			"image_url",
+			"ly_li",
+			"get_grid_ranges",
+			"x_range",
+			"same_x",
+			"gridplot",
+			"browser()",
+			"is.vector",
+			"xs and ys must ",
+			"ly_po",
+			"v_eval <",
+			"resolve_col",
+			"resolve_",
+			"hbd$xs",
+			"resolve_",
+			"hbd$xs",
+			"ly_pol",
+			"get_hexbin_data",
+			"hexbin(x[ind], y[ind], shape",
+			"diff(ybnds)",
+			"browser()",
+			"get_grid_r",
+			"same_axes",
+			"valid_color",
+			"color <"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"fig$x$spec$",
+			"fig$x$fig$",
+			"fig$fig$",
+			"url <- get_url",
+			"(integer)",
+			"- e.g. '12",
+			"(integer)",
+			"resolve_line_args",
+			"scale_tableau_pal",
+			"scale_line_width",
+			"scale_line_dash",
+			"scale_continuous_pal",
+			"scale_glyph",
+			"scale_size",
+			"#' @template par-lineprops",
+			"ly_lines",
+			"ly_points",
+			"ly_polygons",
+			"ly_lines",
+			"ly_points",
+			"attr",
+			"attribute",
+			"attr",
+			"fig",
+			"modify",
+			"get_grid_ranges",
+			"ifelse(is.null(data), NA, digest(data))",
+			"make_bokeh_widget",
+			"cur_lab",
+			"cur_val",
+			"cur_dat",
+			"validate_opts",
+			"num_ind",
+			"cur_legend",
+			"cur_probs",
+			"full_length",
+			"bad_ind",
+			"cur_glyph",
+			"defer_fn",
+			"df_split",
+			"df_args",
+			"g_args",
+			"group_vars",
+			"anchor_opts",
+			"hex_c",
+			"bk_palettes",
+			"bk_palette_names",
+			"get_hexbin_data",
+			"cur_type",
+			"next_color_idx",
+			"n_layers",
+			"cur_theme",
+			"col_fields",
+			"color_ind",
+			"glyph_obj",
+			"new_data",
+			"has_data",
+			"cur_idx",
+			"tool_event_ref",
+			"g_id",
+			"a_id",
+			"t_id",
+			"f_id",
+			"map_args",
+			"tableau_colors",
+			"css_colors",
+			"is_discrete",
+			"check_arc_direction",
+			"xy_names",
+			"get_hover",
+			"get_lgroup",
+			"resolve_glyph_props",
+			"has_fill",
+			"has_line",
+			"resolve_color_alpha",
+			"get_xy_names",
+			"get_xy_data",
+			"reduce_saturation",
+			"valid_opts",
+			"check_opts",
+			"cur_glyph_props",
+			"hard_range",
+			"range_mat",
+			"spec_in_data",
+			"add_layer",
+			"long_ind",
+			"arg_names",
+			"arg_lengths",
+			"scalar_ind",
+			"data_names",
+			"data_is_list",
+			"data_lengths",
+			"fig_type",
+			"y_range",
+			"x_range",
+			"glyph_text",
+			"get_glyph_range",
+			"get_glyph_axis_type",
+			"assert_y",
+			"assert_x",
+			"get_glyph_axis_type_range",
+			"names_with_prefix",
+			"cur_names",
+			"validate_fig",
+			"get_next_color",
+			"update_line_opts",
+			"not_used",
+			"tool_list",
+			"glyph_defer",
+			"glyph_defer_data",
+			"glyph_defer_specs",
+			"fig_model_skeleton",
+			"tool_name",
+			"tool_events",
+			"tool_model",
+			"get_tool_name",
+			"update_tool",
+			"range_name",
+			"legend_model",
+			"color_mapper_model",
+			"c_id",
+			"glyph_attrs",
+			"ns_glyph_ref",
+			"glyph_ref",
+			"data_ref",
+			"d_id",
+			"glyph_rend",
+			"glyph_renderer_model"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "htmlwidgets.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21129,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								16216,
+								16216
+							]
+						],
+						"settings":
+						{
+							"WordCountShouldRun": false,
+							"WordCountSyntax": "javascript",
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 14031.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 33.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "htmlwidgets.sublime-project",
+	"replace":
+	{
+		"height": 62.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tab",
+				"_ignore/colors/tableau.R"
+			],
+			[
+				"",
+				"inst/htmlwidgets/rbokeh.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 638.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 198.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
