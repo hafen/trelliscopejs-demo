@@ -1,0 +1,10 @@
+__loadTrscopeConfig__4f5aa246({
+  "display_base": "displays",
+  "data_type": "jsonp",
+  "cog_server": {
+    "type": "jsonp",
+    "info": {
+      "base": "displays"
+    }
+  }
+})
