@@ -1,0 +1,32 @@
+__loadDisplayList__f40a1a42([
+  {
+    "group": "county",
+    "name": "county_median_list",
+    "desc": "monthly county median list price per square foot",
+    "n": 2196,
+    "height": 500,
+    "width": 300,
+    "updated": "2019-09-22 17:57:29",
+    "keySig": "d5cf3ea755636f725d88b9091a7efb20"
+  },
+  {
+    "group": "county",
+    "name": "county_median_list_log10",
+    "desc": "monthly county median list price per square foot",
+    "n": 2196,
+    "height": 500,
+    "width": 300,
+    "updated": "2019-09-22 17:34:36",
+    "keySig": "d5cf3ea755636f725d88b9091a7efb20"
+  },
+  {
+    "group": "state",
+    "name": "state_median_list",
+    "desc": "monthly state median list price per square foot",
+    "n": 51,
+    "height": 500,
+    "width": 300,
+    "updated": "2019-09-22 17:59:16",
+    "keySig": "373f9311c57f19bc54d1d1673194b52d"
+  }
+])
